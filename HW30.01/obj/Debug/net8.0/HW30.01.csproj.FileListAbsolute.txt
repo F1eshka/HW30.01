@@ -1,0 +1,14 @@
+C:\Users\Rog\source\repos\HW30.01\HW30.01\bin\Debug\net8.0\HW30.01.exe
+C:\Users\Rog\source\repos\HW30.01\HW30.01\bin\Debug\net8.0\HW30.01.deps.json
+C:\Users\Rog\source\repos\HW30.01\HW30.01\bin\Debug\net8.0\HW30.01.runtimeconfig.json
+C:\Users\Rog\source\repos\HW30.01\HW30.01\bin\Debug\net8.0\HW30.01.dll
+C:\Users\Rog\source\repos\HW30.01\HW30.01\bin\Debug\net8.0\HW30.01.pdb
+C:\Users\Rog\source\repos\HW30.01\HW30.01\obj\Debug\net8.0\HW30.01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rog\source\repos\HW30.01\HW30.01\obj\Debug\net8.0\HW30.01.AssemblyInfoInputs.cache
+C:\Users\Rog\source\repos\HW30.01\HW30.01\obj\Debug\net8.0\HW30.01.AssemblyInfo.cs
+C:\Users\Rog\source\repos\HW30.01\HW30.01\obj\Debug\net8.0\HW30.01.csproj.CoreCompileInputs.cache
+C:\Users\Rog\source\repos\HW30.01\HW30.01\obj\Debug\net8.0\HW30.01.dll
+C:\Users\Rog\source\repos\HW30.01\HW30.01\obj\Debug\net8.0\refint\HW30.01.dll
+C:\Users\Rog\source\repos\HW30.01\HW30.01\obj\Debug\net8.0\HW30.01.pdb
+C:\Users\Rog\source\repos\HW30.01\HW30.01\obj\Debug\net8.0\HW30.01.genruntimeconfig.cache
+C:\Users\Rog\source\repos\HW30.01\HW30.01\obj\Debug\net8.0\ref\HW30.01.dll
